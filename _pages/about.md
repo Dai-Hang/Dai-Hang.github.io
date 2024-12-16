@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hang"
+title: "Hang Dai"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hang Dai is a full professor affiliated with the Department of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
+I am a full professor affiliated with the Department of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
 
 News
 ======
