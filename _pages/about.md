@@ -10,7 +10,8 @@ redirect_from:
 I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
 
 News
-======
+------
+#======
 We are recruiting now! Multiple Postdoc, PhD, and Master positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.
 
 Site-wide configuration
