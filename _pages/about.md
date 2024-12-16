@@ -21,7 +21,7 @@ Research Interests
 
 Featured Publications
 ------
-Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai*, Y Ding. European Conference on Computer Vision 13670, 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)][[Arxiv](https://arxiv.org/pdf/2211.07171)][[Code](https://github.com/Cc-Hy/CMKD)]
+<li>Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai*, Y Ding. European Conference on Computer Vision 13670, 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)][[Arxiv](https://arxiv.org/pdf/2211.07171)][[Code](https://github.com/Cc-Hy/CMKD)] </li>
 
 Create content & metadata
 ------
