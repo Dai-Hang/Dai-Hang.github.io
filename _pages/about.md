@@ -11,7 +11,7 @@ I am a full professor affiliated with the Department of Computer Science at Wuha
 
 News
 ======
-We are recruiting now! Multiple Postdoc, PhD, and Master's student positions are open in autonomous driving, machine vision, and embodied AI. Applicants with a CVPR/ICCV/ECCV/NIPS publication are preferred. Please email me (hang.dai.cs@gmail.com) and highlight your interest area.
+We are recruiting now! Multiple Postdoc, PhD, and Master positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. Please email me (hang.dai.cs@gmail.com) and highlight your interest area.
 
 Site-wide configuration
 ------
