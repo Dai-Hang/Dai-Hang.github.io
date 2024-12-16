@@ -15,9 +15,9 @@ We are recruiting now! Multiple Postdoc, PhD, and Master positions are open in a
 
 Research Interests
 ------
-*Autonomous Driving*: Occupancy Network, 3D Object Detection, 3D Semantic Segmentation, End-to-End AD Network;/
-*Machine Vision*: Dichotomous Image Segmentation, Camouflaged Object Detection;/
-*Embodied AI*: Vision-Language Models, Command for Robotics.
+ <br>**Autonomous Driving**: Occupancy Network, 3D Object Detection, 3D Semantic Segmentation, End-to-End AD Network;
+ <br>**Machine Vision**: Dichotomous Image Segmentation, Camouflaged Object Detection;
+ <br>**Embodied AI**: Vision-Language Models, Command for Robotics.
 
 Site-wide configuration
 ------
