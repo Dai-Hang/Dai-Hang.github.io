@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hang Dai / Professor"
+title                    : "Hang Dai / Professor@WHU"
 title_separator          : "-"
 name                     : &name "Hang Dai"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "Dai-Hang/Dai-Hang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hang Dai (戴行)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Researcher"
+  location         : "Wuhan"
+  employer         : "Wuhan University"
+  uri              : https://en.whu.edu.cn/
+  email            : "hang.dai.cs@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
