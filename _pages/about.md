@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hang Dai"
+title: "Hang Dai (戴行)"
 author_profile: true
 redirect_from: 
   - /about/
