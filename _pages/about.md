@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
+I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. **Page under construction!**
 
-News
+NEWs
 ------
 We are recruiting now! Multiple Postdoc, PhD, and Master positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.
+
+RESEARCH INTEREST
+------
+*Autonomous Driving*: Occupancy Network, 3D Object Detection, 3D Semantic Segmentation, End-to-End AD Network.
+*Machine Vision*: Dichotomous Image Segmentation, Camouflaged Object Detection.
+*Embodied AI*: Vision-Language Models, Command for Robotics.
 
 Site-wide configuration
 ------
