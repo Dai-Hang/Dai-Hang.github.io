@@ -19,9 +19,9 @@ Research Interests
  <br>**Machine Vision**: Dichotomous Image Segmentation, Camouflaged Object Detection;
  <br>**Embodied AI**: Vision-Language Models, Command for Robotics.
 
-Site-wide configuration
+Featured Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai*, Y Ding. European Conference on Computer Vision 13670, 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)][[Arxiv](https://arxiv.org/pdf/2211.07171)][[Code](https://github.com/Cc-Hy/CMKD)]
 
 Create content & metadata
 ------
