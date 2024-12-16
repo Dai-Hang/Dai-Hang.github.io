@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor affiliated with the Department of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
+I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. 
 
 News
 ======
