@@ -11,8 +11,8 @@ I am a full professor affiliated with the School of Computer Science at Wuhan Un
 
 News
 ------
-📢We are recruiting! Multiple Postdoc, PhD, and MSc positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.🚀🚀🚀🚀
-<p>📢 I serve as an Area Chair and an Industrial/Keynote Chair for BMVC 2024. 
+📢We are recruiting! Multiple Postdoc, PhD, and MSc positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.🚀
+<br>📢I serve as an Area Chair and an Industrial/Keynote Chair for BMVC 2024.🚀 
 
 Research Interests
 ------
