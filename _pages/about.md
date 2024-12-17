@@ -37,7 +37,7 @@ Featured Projects
  <br>🔥[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/): a set of 3D images of the human head, consisting of 1519 subjects wearing tight fitting latex caps to reduce the effect of hairstyles.
  <br><IMG SRC="/images/christianAnimated.gif" style = "width:80%">
  <br>🔥[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/): build 3D models of human face and cranium variation in order to support clinical planning and surgical intervention evaluation tools for craniofacial surgeons.
- <br><IMG SRC="/images/ShapeTextureModel.PNG" style = "width:80%">
+ <br><IMG SRC="/images/ShapeTextureModel.PNG">
 
 
 Featured Publications
