@@ -25,9 +25,9 @@ author:
   name             : "Hang Dai (戴行)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"
-  location         : "Wuhan"
+  location         : "China"
   employer         : "Wuhan University"
-  URI              : "https://en.whu.edu.cn/"
+  URI              : https://en.whu.edu.cn/
   email            : "hang.dai.cs@gmail.com" 
 
   # Academic websites
