@@ -11,7 +11,7 @@ I am a full professor affiliated with the School of Computer Science at Wuhan Un
 
 News
 ------
-We are recruiting now! Multiple Postdoc, PhD, and Master positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.
+We are recruiting! Multiple Postdoc, PhD, and Master positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.
 <br>📢 I serve as an Area Chair and an Industrial/Keynote Chair for BMVC 2024. 🚀🚀
 
 Research Interests
@@ -20,8 +20,19 @@ Research Interests
  <br>**Machine Vision**: Dichotomous Image Segmentation, Camouflaged Object Detection;
  <br>**Embodied AI**: Vision-Language Models, Command for Robotics.
 
+ Awards
+------
+ 🥈The 2nd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Semantic Segmentation``
+ <br>🥉The 3rd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Object Detection``
+ <br>🥇The 1st place in ECCV 2020 Commands for Autonomous Vehicles Challenge
+ <br>🥈The 2nd place in ECCV 2020 Commands for Autonomous Vehicles Challenge
+
 Featured Publications
 ------
-📝Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai*, Y Ding. European Conference on Computer Vision 2022, 13670, 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)] [[Arxiv](https://arxiv.org/pdf/2211.07171)] [[Code](https://github.com/Cc-Hy/CMKD)]
-<br>📝
+📝MSeg3D: Multi-modal 3D Semantic Segmentation for Autonomous Driving. J Li, H Dai, H Han, Y Ding. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, pp. 21694-21704. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_MSeg3D_Multi-Modal_3D_Semantic_Segmentation_for_Autonomous_Driving_CVPR_2023_paper.pdf)] [[Arxiv](https://arxiv.org/pdf/2303.08600)] [[Code](https://github.com/jialeli1/lidarseg3d)]
+<br>📝Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformer. Z Huang, H Dai, TZ Xiang, S Wang, HX Chen, J Qin, H Xiong. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, pp. 5557-5566. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Feature_Shrinkage_Pyramid_for_Camouflaged_Object_Detection_With_Transformers_CVPR_2023_paper.pdf)] [[Arxiv](https://arxiv.org/pdf/2303.14816)] [[Code](https://github.com/ZhouHuang23/FSPNet)]
+<br>📝Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai, Y Ding. Proceedings of European Conference on Computer Vision (ECCV) 2022, 13670, pp. 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)] [[Arxiv](https://arxiv.org/pdf/2211.07171)] [[Code](https://github.com/Cc-Hy/CMKD)]
+<br>📝Highly accurate dichotomous image segmentation. X Qin, H Dai, X Hu, DP Fan, L Shao, L Van Gool. Proceedings of European Conference on Computer Vision (ECCV) 2022, pp. 38-56. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_3)] [[Arxiv](https://arxiv.org/pdf/2203.03041)] [[Code](https://github.com/xuebinqin/DIS)] [[Dataset](https://xuebinqin.github.io/dis/index.html)]
+
+
 
