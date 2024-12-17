@@ -11,22 +11,33 @@ I am a full professor in the School of Computer Science at Wuhan University and 
 
 News
 ------
-📢We are recruiting! Multiple Postdoc, PhD, and MSc positions are open in autonomous driving, machine vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.🚀
+📢We are recruiting! Multiple Postdoc, PhD, and MSc positions are open in autonomous driving, robotic vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.🚀
 
 <p>📢I serve as an Area Chair and an Industrial/Keynote Chair for BMVC 2024.🚀</p> 
 
 Research Interests
 ------
  **Autonomous Driving**: Occupancy Network, 3D Object Detection, 3D Semantic Segmentation, End-to-End AD Network;
- <br>**Machine Vision**: Dichotomous Image Segmentation, Camouflaged Object Detection;
+ <br>**Robotic Vision**: 3D Reconstruction, Dichotomous Image Segmentation, Camouflaged Object Detection;
  <br>**Embodied AI**: Vision-Language Models, Command for Robotics.
 
- Awards
+Awards
 ------
  🥈The 2nd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Semantic Segmentation``
  <br>🥉The 3rd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Object Detection``
  <br>🥇The 1st place in ECCV 2020 Commands for Autonomous Vehicles Challenge
  <br>🥈The 2nd place in ECCV 2020 Commands for Autonomous Vehicles Challenge
+
+Featured Projects
+------
+🔥3D Perception in Autonomous Driving: 3D
+<video width="320" height="240" controls="controls" autoplay="autoplay">
+  <source src="/i/movie.mp4" type="video/mp4" />
+  </object>
+</video>
+🔥<br>[Dichotomous Image Segmentation (DIS)](https://xuebinqin.github.io/dis/index.html): accurately segmenting objects with details and different structure complexities, regardless of their characteristics.
+🔥<br>[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/)
+🔥<br>[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/)
 
 Featured Publications
 ------
