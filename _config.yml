@@ -27,7 +27,7 @@ author:
   bio              : "Researcher"
   location         : "China"
   employer         : "Wuhan University"
-  URI              : https://en.whu.edu.cn/
+  URI              : "https://en.whu.edu.cn/"
   email            : "hang.dai.cs@gmail.com" 
 
   # Academic websites
