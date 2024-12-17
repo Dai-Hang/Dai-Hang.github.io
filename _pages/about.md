@@ -30,11 +30,14 @@ Awards
 
 Featured Projects
 ------
-🔥3D Perception in Autonomous Driving
- <IMG SRC="/images/AD-demo.gif">
-🔥<br>[Dichotomous Image Segmentation (DIS)](https://xuebinqin.github.io/dis/index.html): accurately segmenting objects with details and different structure complexities, regardless of their characteristics.
-🔥<br>[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/)
-🔥<br>[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/)
+🔥3D Perception in Autonomous Driving: the ability of an autonomous system to collect 3D information and extract relevant knowledge from the environment.
+ <br><IMG SRC="/images/AD-demo.gif">
+ <br>🔥[Dichotomous Image Segmentation (DIS)](https://xuebinqin.github.io/dis/index.html): accurately segmenting objects with details and different structure complexities, regardless of their characteristics.
+ <br><IMG SRC="/images/ship-demo.gif" style="width:50%">
+ <br>🔥[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/): a set of 3D images of the human head, consisting of 1519 subjects wearing tight fitting latex caps to reduce the effect of hairstyles.
+ <br><IMG SRC="/images/christianAnimated.gif" style="width:52%" class="center">
+ <br>🔥<br>[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/): build 3D models of human face and cranium variation in order to support clinical planning and surgical intervention evaluation tools for craniofacial surgeons. 
+
 
 Featured Publications
 ------
