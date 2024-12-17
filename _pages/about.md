@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor in the School of Computer Science at Wuhan University and an honorary research fellow at University of Glasgow. Prior to that, I was a Lecturer in Machine Learning at University of Glasgow and an Assistant Professor at MBZUAI. I was awarded a PhD in Computer Science (2019) at University of York, where I received the Overseas Research Scholarship.
+I am a full professor in the School of Computer Science at [Wuhan University](https://en.wikipedia.org/wiki/Wuhan_University) and an honorary research fellow at [University of Glasgow](https://en.wikipedia.org/wiki/University_of_Glasgow). Prior to that, I was a Lecturer in Machine Learning at University of Glasgow and an Assistant Professor at [MBZUAI](https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_University_of_Artificial_Intelligence). I was awarded a PhD in Computer Science (2019) at [University of York](https://en.wikipedia.org/wiki/University_of_York), where I received the Overseas Research Scholarship.
 
 News
 ------
