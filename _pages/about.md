@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. **Page under construction!**
+I am a full professor affiliated with the School of Computer Science at Wuhan University and an honorary research fellow at the University of Glasgow. Prior to moving to WHU, I was a Lecturer in Machine Learning at the University of Glasgow and an Assistant Professor at MBZUAI. I was awarded a PhD in Computer Science (2019) at the University of York, where I received the Overseas Research Scholarship.
 
 News
 ------
