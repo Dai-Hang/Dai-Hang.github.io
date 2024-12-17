@@ -34,5 +34,12 @@ Featured Publications
 <br>📝Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai, Y Ding. Proceedings of European Conference on Computer Vision (ECCV) 2022, 13670, pp. 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)] [[Arxiv](https://arxiv.org/pdf/2211.07171)] [[Code](https://github.com/Cc-Hy/CMKD)]
 <br>📝Highly accurate dichotomous image segmentation. X Qin, H Dai, X Hu, DP Fan, L Shao, L Van Gool. Proceedings of European Conference on Computer Vision (ECCV) 2022, pp. 38-56. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_3)] [[Arxiv](https://arxiv.org/pdf/2203.03041)] [[Code](https://github.com/xuebinqin/DIS)] [[Dataset](https://xuebinqin.github.io/dis/index.html)]
 
+Teaching
+------
+📚COMPSCI5103 - Deep Learning For MSc (M), University of Glasgow
+<br>📚COMPSCI5012 - Internet Technology (M), University of Glasgow
+<br>📚CV701 - Human and Computer Vision, MBZUAI 
+<br>📚CV702 - Vision and Geometry, MBZUAI
+<br>📚TA Courses @ University of York: COM00005C - Mathematical Foundations of Computer Science, COM00007C - Theory and Practice of Programming, COM00009I - Vision and Graphics, COM00027H - Computer Vision, COM00006C - Numerical Analysis, COM00005I - Principles of Programming Languages
 
 
