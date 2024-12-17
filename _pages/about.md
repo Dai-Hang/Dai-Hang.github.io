@@ -30,11 +30,8 @@ Awards
 
 Featured Projects
 ------
-🔥3D Perception in Autonomous Driving: 3D
-<video width="320" height="240" controls="controls" autoplay="autoplay">
-  <source src="/i/movie.mp4" type="video/mp4" />
-  </object>
-</video>
+🔥3D Perception in Autonomous Driving
+ <IMG SRC="/images/AD-demo.gif">
 🔥<br>[Dichotomous Image Segmentation (DIS)](https://xuebinqin.github.io/dis/index.html): accurately segmenting objects with details and different structure complexities, regardless of their characteristics.
 🔥<br>[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/)
 🔥<br>[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/)
