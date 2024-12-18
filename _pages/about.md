@@ -21,7 +21,7 @@ Research Interests
  <br>**Robotic Vision**: 3D Reconstruction, Dichotomous Image Segmentation, Camouflaged Object Detection;
  <br>**Embodied AI**: Vision-Language Models, Command for Robotics.
 
-Awards
+Challenge Awards
 ------
  🥈The 2nd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Semantic Segmentation``
  <br>🥉The 3rd place in CVPR 2022 Waymo Open Challenge on the task of ``3D Object Detection``
