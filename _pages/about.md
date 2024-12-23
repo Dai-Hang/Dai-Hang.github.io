@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor in the School of Computer Science at [Wuhan University](https://en.wikipedia.org/wiki/Wuhan_University) and an honorary research fellow at [University of Glasgow](https://en.wikipedia.org/wiki/University_of_Glasgow). Prior to that, I was a Lecturer in Machine Learning at University of Glasgow and an Assistant Professor at [MBZUAI](https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_University_of_Artificial_Intelligence). I was awarded a PhD in Computer Science (2019) at [University of York](https://en.wikipedia.org/wiki/University_of_York), where I received the Overseas Research Scholarship.
+I am a full professor in the School of Computer Science at [Wuhan University](https://en.wikipedia.org/wiki/Wuhan_University) and an honorary research fellow at [University of Glasgow](https://en.wikipedia.org/wiki/University_of_Glasgow). Prior to that, I was a Lecturer in Machine Learning at University of Glasgow and an Assistant Professor at [MBZUAI](https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_University_of_Artificial_Intelligence). I was awarded a PhD in Computer Science (2019) at [University of York](https://en.wikipedia.org/wiki/University_of_York), where I received the Overseas Research Scholarship. 
 
 News
 ------
@@ -34,7 +34,7 @@ Featured Projects
  <br><IMG SRC="/images/AD-demo.gif">
  <br>🔥[Dichotomous Image Segmentation (DIS)](https://xuebinqin.github.io/dis/index.html): accurately segmenting objects with details and different structure complexities, regardless of their characteristics.
  <br><IMG SRC="/images/ship-demo.gif" style = "width:80%">
- <br>🔥[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/): a set of 3D images of the human head, consisting of 1519 subjects wearing tight fitting latex caps to reduce the effect of hairstyles.
+ <br>🔥[Headspace Dataset](https://www-users.york.ac.uk/~np7/research/Headspace/): a set of 3D images of the human head, consisting of 1519 subjects wearing tight fitting latex caps to reduce the effect of hairstyles. (Image reproduced from Nick's website)
  <br><IMG SRC="/images/christianAnimated.gif" style = "width:80%">
  <br>🔥[Liverpool-York Head Model (LYHM)](https://www-users.york.ac.uk/~np7/research/LYHM/): build 3D models of human face and cranium variation in order to support clinical planning and surgical intervention evaluation tools for craniofacial surgeons.
  <br><IMG SRC="/images/ShapeTextureModel.PNG">
@@ -47,7 +47,7 @@ Featured Publications
 <br>📝Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. Y Hong, H Dai, Y Ding. Proceedings of European Conference on Computer Vision (ECCV) 2022, 13670, pp. 87-104. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6)] [[Arxiv](https://arxiv.org/pdf/2211.07171)] [[Code](https://github.com/Cc-Hy/CMKD)]
 <br>📝Highly accurate dichotomous image segmentation. X Qin, H Dai, X Hu, DP Fan, L Shao, L Van Gool. Proceedings of European Conference on Computer Vision (ECCV) 2022, pp. 38-56. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_3)] [[Arxiv](https://arxiv.org/pdf/2203.03041)] [[Code](https://github.com/xuebinqin/DIS)] [[Dataset](https://xuebinqin.github.io/dis/index.html)]
 
-Teaching
+Teaching Courses
 ------
 📚COMPSCI5103 - Deep Learning For MSc (M), University of Glasgow
 <br>📚COMPSCI5012 - Internet Technology (M), University of Glasgow
@@ -55,4 +55,6 @@ Teaching
 <br>📚CV702 - Vision and Geometry, MBZUAI
 <br>📚TA Courses @ University of York: COM00005C - Mathematical Foundations of Computer Science, COM00007C - Theory and Practice of Programming, COM00009I - Vision and Graphics, COM00027H - Computer Vision, COM00006C - Numerical Analysis, COM00005I - Principles of Programming Languages
 
-
+Acknowledgments
+------
+🧡*I would like to thank my supervisors, students, collaborators, and funding resources during my academic career*.
