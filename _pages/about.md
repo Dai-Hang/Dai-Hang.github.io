@@ -13,7 +13,7 @@ News
 ------
 📢We are recruiting! Multiple Postdoc, PhD, and MSc positions are open in autonomous driving, robotic vision, and embodied AI. Applicants with CVPR/ICCV/ECCV/NIPS publications are preferred. **Please email me with your CV and highlight your interest area**.🚀
 
-<p>📢I serve as an Area Chair and an Industrial/Keynote Chair for BMVC 2024.🚀</p> 
+<p>📢I serve as an Area Chair for BMVC 2024-2025 and an Industrial/Keynote Chair for BMVC 2024.🚀</p> 
 
 Research Interests
 ------
